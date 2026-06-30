@@ -21,4 +21,20 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
