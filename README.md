@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0912-sort-an-array) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -104,4 +106,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
