@@ -12,6 +12,7 @@
 | [0435-non-overlapping-intervals](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0912-sort-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/1383-maximum-performance-of-a-team) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0242-valid-anagram](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0912-sort-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/1383-maximum-performance-of-a-team) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0912-sort-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/1383-maximum-performance-of-a-team) |
 ## Merge Sort
 |  |
 | ------- |
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0435-non-overlapping-intervals) |
+| [1383-maximum-performance-of-a-team](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/1383-maximum-performance-of-a-team) |
 ## Two Pointers
 |  |
 | ------- |
