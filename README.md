@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0217-contains-duplicate) |
@@ -88,11 +89,13 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0435-non-overlapping-intervals) |
 | [1383-maximum-performance-of-a-team](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/1383-maximum-performance-of-a-team) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashCoder25/Leetcode-With-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
